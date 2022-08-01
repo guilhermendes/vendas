@@ -6,14 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f927f2e4-ddaa-45bf-9a73-43714fd01ce1" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../../educacaoprofissional" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/guilhermendes/VendasAplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../pforr" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../professoronline" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../sige-material" afterDir="false" />
@@ -31,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />

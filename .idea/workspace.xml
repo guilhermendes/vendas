@@ -9,10 +9,8 @@
       <change afterPath="$PROJECT_DIR$/../../pforr" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../professoronline" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../sige-material" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/guilhermendes/VendasAplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/guilhermendes/VendasAplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/io/github/guilhermendes/VendasAplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/github/guilhermendes/VendasAplication.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -48,6 +48,11 @@
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.github.guilhermendes" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="VendasAplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.github.guilhermendes.VendasAplication" />
